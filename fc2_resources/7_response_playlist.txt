@@ -1,0 +1,40 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Nov 2023 09:20:58 GMT
+Content-Type: application/x-mpegURL
+Connection: keep-alive
+cache-control: no-cache
+Access-Control-Allow-Origin: https://live.fc2.com
+Access-Control-Allow-Credentials: true
+Vary: Origin
+Content-Length: 1984
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1343
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1343.ts?time=1699608077&hash=1554ebbce4f57016fbc09b17aa4cba468fccd6e09ad742497a09bcf932d7f3aa
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1344.ts?time=1699608078&hash=29253a1822d7b67e5ddeb1f864c97e164cdfbe3b6c5028aa8de32c7337b2f613
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1345.ts?time=1699608079&hash=9200cd9c55c70e9480710f6a02ff92fd2cdae98d8c932027bea99a35e547bd17
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1346.ts?time=1699608080&hash=c9dcf3ed72d6e6b2a2ad19e9be04bb92e17077046a8a614a2a994bc93a23d06d
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1347.ts?time=1699608081&hash=b1a9ee2d87e4f8d5a0020a053e5940edef1f3c58a6cfa78071a96227ded2aa28
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1348.ts?time=1699608082&hash=9bc2d6f5d1ce88a939a20f7cc10985d4ff772d25d0cded75c3e244996ca51b56
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1349.ts?time=1699608083&hash=1f9fc18460ba7d1569e518d64e121756765871f3188c31dbc9aa54f15868b9e3
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1350.ts?time=1699608084&hash=7baad7e17306cda3811ac08ab45e75048a333812fe5d91682d81948305384398
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1351.ts?time=1699608085&hash=be9f7bd6ca6b5580ba13d6aa506a778b7e9952714c1b4006ea3ef5bca24bdf10
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1352.ts?time=1699608086&hash=483f0248fbf661af96d3efbd53e96fa0d09198c8caceea335000bc2891f7cae1
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1353.ts?time=1699608087&hash=4b39ee2fbe391e35fbe86dcbfca6262679091c6b88a5b4844a1ae03694e3f421
+#EXTINF:1
+https://hls3002-g.live.fc2.com/hls/v2/54174804/52/data/1354.ts?time=1699608088&hash=7beb9862c14242299a74ece87ae8c9d0f7bcdd79f33f084961692545506fd834
+

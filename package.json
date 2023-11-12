@@ -1,0 +1,25 @@
+{
+    "name": "hls-live-downloader",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Download from live sites",
+    "main": "master.ts",
+    "scripts": {
+        "build": "tsc",
+        "start": "npm run build && node dist/master.js"
+    },
+    "keywords": [],
+    "author": "visardomi4@gmail.com",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^20.8.10",
+        "@types/ws": "^8.5.9",
+        "typescript": "^5.2.2"
+    },
+    "optionalDependencies": {
+        "bufferutil": "^4.0.8"
+    },
+    "dependencies": {
+        "ws": "^8.14.2"
+    }
+}

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Nov 2023 10:01:34 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Cross-Origin-Opener-Policy: same-origin
+Set-Cookie: PHPSESSID=vg7ivo2mfua7t4femdh1ovo5ir; path=/; domain=.live.fc2.com; HttpOnly
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Last-Modified: Fri, 10 Nov 2023 10:01:34 GMT
+Cache-Control: no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 104999
+
+some-html-here

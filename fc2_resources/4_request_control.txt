@@ -1,0 +1,22 @@
+POST https://live.fc2.com/api/getControlServer.php HTTP/1.1
+Host: live.fc2.com
+Connection: keep-alive
+Content-Length: 171
+sec-ch-ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+sec-ch-ua-platform: "Windows"
+Origin: https://live.fc2.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://live.fc2.com/97727713/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: l_ortkn=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvcnoiOiI0MzM0ZDA0YTgzZjI0NjBlMWQ5MjlhYTJiYTMzNTJkODZhODQzM2I5In0.5LV_it_xsD4WUio0i9EvpOBmBdYPoAqhDOl1uxfJ7z8; PHPSESSID=vg7ivo2mfua7t4femdh1ovo5ir; js-player_size=1
+
+channel_id=97727713&mode=play&orz=&channel_version=f4a5e538-419f-4f13-baf1-5809733bfc6b&client_version=2.2.6++%5B1%5D&client_type=pc&client_app=browser_hls&ipv6=&comment=2

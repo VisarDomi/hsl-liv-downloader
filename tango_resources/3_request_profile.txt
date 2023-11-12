@@ -1,0 +1,24 @@
+POST https://proxycador-cdn.tango.me/proxycador/api/public/v1/profiles/v2/batch?basicProfile=true&liveStats=false&followStats=false HTTP/1.1
+Host: proxycador-cdn.tango.me
+Connection: keep-alive
+Content-Length: 12
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+DNT: 1
+foreground-id: 927886d3-d097-4295-a4e7-b8e10ba5f99f
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+content-type: application/json
+username: 06c903e40ab1408a835389235c1c9055
+interaction-id: 45723302-8677-444f-a9f4-42a76934dc02
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://tango.me
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://tango.me/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Tango-PC=G8BFKbDT-kAxdk1xwsJ5AhRGErcgvwWJZWysHHbSLjnoLeKdhXjmapHJlsNjB3Mn1DbiaL6PIVbTutBYrl-nmr53xFIRWVwkcuvidMMbxO9TNRFux21R9ryGycff4J3zdjZ7tMVmJ_b3aM8NvTQOnOswYYRVNWBzeY8SeJkbg6FfgYh_uQxzJxD1xkcWqscGnpWlFaTMHc2K0-8c4mTcEFoTL8DT-cnHXeIqKdyj0UkH8wL7J9xxJEF7wVvaEiNquEwHSlWPRpDEdghgjH-OsNRgT0xvyq13JvbvN0EcTFPlMVh04FFGVQbaee-yjJngErN3B3zkQi_7-WwOJ7yP2N-eQ72bZL9DEUiL6LYRkbw; Tango-TC=OQnFrn4PC3TS0SjEFcfAu_8FoKehaNyWWMWOhNrEy5_PDvuBKoBmjoSwI2eUUu4NJtz1Z7JP2iKuwkqZRa4nBZcEgzkQdE4pY2m6qY7thKkXX68JmMPczuUNBGCGg7MJxL957-yA0-y7SohvMF6fY_KfiI9DpIp4sJ-HNVoNhI7lc5Y4HPSmI4JjBD_1Sm2qSLVL2EXHOAqHjc1bH-chVw; Tango-ST=eyJraWQiOiIxZjUwMDZjYS01YWYxLTQ1NzEtOTNiMC1jYTFiYjliMWZmZWEiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJjcmVkZW50aWFsVHlwZSI6IkdVRVNUIiwiYXVkIjoiZ2F0ZXdheSIsImFjY291bnRJZCI6Il84bzVWbEZyMHFWMDdiMXJLUGNva3ciLCJpc3MiOiJ0b2tlbi1zZXJ2aWNlIiwic2Vzc2lvbklkIjoiZTY5MmIyYjctMTk5ZS00YjFkLTgyMGUtODkxYjAwMWY4MDAwIiwiZXhwIjoxNjk5MTk0NDE5LCJqdGkiOiJhY2E4MWUxYS1iZmI5LTQ3NTUtYTQxZi03MDU5MTAxZTc1ZGUiLCJ1c2VybmFtZSI6IjA2YzkwM2U0MGFiMTQwOGE4MzUzODkyMzVjMWM5MDU1In0.KidqGPAP055ebaXYpZiKimjjRNqj1_OSGE6MRfECTQQXr7eSyAxNRJa8RMPXKC9MFwujilooRtvusRLUAtMu78Pua5QsdZ1Av06_bz9_pNtWfgorFVocrUUy7SdHovxGie8M96yJh868cI4Knh1go13VQva4zkvZfJdKySsVvCKSE7iV1O1BKa5ggll0EadLuQDRBtWxGtYbTV6SH5Ur-ZlByGCJYl0rEyeAz5_jU_lgS8KhifkRFwaD2TxMJBMEewh_A8_1InC9axyxnfvOj7DRQFV9TnbvXqPM8fmJeM0WkR6_fgNXNEET99qzSss8ILCEu0wP6qu9z3tVm4xgXeQjJlHTKcf5xfJsIwF-fcqMM0IR-wV2YtjVrZZu5iekgkcdOCLb8gXcIwbjcKygwIQsz--WmcfxJOZjSm2YWfK-5x7rZa7596pjckZKXnb-bFSmo088xHW7EF141AoSNLNU7071UXswG3LSEJd_im5sfs_b2RvhO0OYb4wE7Q_1nANdDBaQsqwayq-3NXq6B_9a58jo-3-v1_uzaTrEVxZpoJ6Q4WfNYqGi7AHULg_1JZjmIlFM4Ua-3wRqn5nyUaPKM_bAtllqtYa9csf_krQXlwWGrVGf872STGqk_03yhi3ktmB5AWe80_lg7fj3M8_cN0tRhQrhvfwpeuuZAJo; intercom-id-ahnp8yy2=6fa59b68-98b1-4508-a866-53f2a4a4d8af; intercom-session-ahnp8yy2=; intercom-device-id-ahnp8yy2=6cadac9f-1579-4b23-a652-e29956830b9c; ttu=06c903e40ab1408a835389235c1c9055; tt=MTVmOGQxNjA0YmZmMTgwNWUyMTA3N2JkZDA3NWY1OTFmN2JjMTcyYWNkMGE3ODIzMWI1YmJiNDIzYjM0NWVkOA; tte=1699191036
+
+["risha-37"]

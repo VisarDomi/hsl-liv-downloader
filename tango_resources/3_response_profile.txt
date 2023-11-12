@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+transfer-encoding: chunked
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-B3-TraceId: 18b9fad739d9ec4625c9842abf8
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 05 Nov 2023 13:30:26 GMT
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://tango.me
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+242
+{"UzoRrqoAakOzlC19PYF39A":{"encryptedAccountId":"UzoRrqoAakOzlC19PYF39A","basicProfile":{"firstName":"Risha\uD83D\uDE18❤️","profilePictureUrl":"https://cget.tango.me/contentserver/download/ZJ6MHwAAgYNt_EBsTYjgZg/P7YmRdea","profileThumbnailUrl":"https://cget.tango.me/contentserver/download/ZJ6MHwAAgYNt_EBsTYjgZg/P7YmRdea/thumbnail","gender":"NONE","verified":false,"aliases":[{"alias":"risha-37","created":1688062651578,"creator":"SYSTEM"}]},"profileDetails":{"backgroundUrl":"https://surprises.tango.me/ts/pb0001_v11.jpg","phoneCountryCode":"380","iso2CountryCode":"UA"}}}
+0
+

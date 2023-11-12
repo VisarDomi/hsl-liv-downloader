@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 398
+Content-Type: application/vnd.apple.mpegurl
+Via: 1.1 google, 1.1 varnish, 1.1 varnish
+Cache-Control: max-age=0, no-cache
+Accept-Ranges: bytes
+Date: Sun, 05 Nov 2023 13:30:33 GMT
+Age: 0
+X-Served-By: cache-fra-eddf8230122-FRA, cache-sof1510027-SOF
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://tango.me
+Strict-Transport-Security: max-age=300
+
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=2348872,AVERAGE-BANDWIDTH=2348872,RESOLUTION=1280x720
+/v2/15602398d09e596215bf761d35864e82/live.m3u8?m=4d15144117f792596bf27abc6e02e194&tech=lhls
+#EXT-X-STREAM-INF:BANDWIDTH=868560,AVERAGE-BANDWIDTH=868560,RESOLUTION=640x360
+/v2/fdaedde318df5e5f7f145329b8d6a8de/live.m3u8?m=4d15144117f792596bf27abc6e02e194&tech=lhls

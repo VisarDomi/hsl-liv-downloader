@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Nov 2023 10:19:19 GMT
+Content-Type: application/x-mpegURL
+Connection: keep-alive
+cache-control: no-cache
+Access-Control-Allow-Origin: https://live.fc2.com
+Access-Control-Allow-Credentials: true
+Vary: Origin
+Content-Length: 1560
+
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=270000,AVERAGE-BANDWIDTH=195000,CODECS="avc1.42e01e,mp4a.40.2"
+https://hls.live.fc2.com/hls/97727713/12/playlist?session_token=a47ea4f41748e8a2418925603e063354686dcdce6be02bffde986d8e26f39945&playlist_token=e3606e42bbd3e800c99d0acd98a9fb79e54e081f9dda3d566d92cb98a6552bbd&playlist_second_token=976585014bdf4e16e847cdc7041233941684bd535eccfca78c6d26e2df1eac7a
+#EXT-X-STREAM-INF:BANDWIDTH=720000,AVERAGE-BANDWIDTH=520000,CODECS="avc1.4d401e,mp4a.40.2"
+https://hls.live.fc2.com/hls/97727713/22/playlist?session_token=a47ea4f41748e8a2418925603e063354686dcdce6be02bffde986d8e26f39945&playlist_token=93d192f523f065c6436da815c4bc17bc9cd45ca8a5e634f7c71cc1265d3d36a3&playlist_second_token=ab7adac7fb0fc5836ceff55c7bae879cb8fed7884b42eefc8b77c5713037c879
+#EXT-X-STREAM-INF:BANDWIDTH=2160000,AVERAGE-BANDWIDTH=1560000,CODECS="avc1.640029,mp4a.40.2"
+https://hls.live.fc2.com/hls/97727713/32/playlist?session_token=a47ea4f41748e8a2418925603e063354686dcdce6be02bffde986d8e26f39945&playlist_token=182102fcc141bf6dcf727569eb61286ce5a3f2b9f170fc2513ebcb268f6a4955&playlist_second_token=c0f2fbf295b06170025f5bd7e7a265eaa178f485e5002a96b6fbc1fc3eb6e1b0
+#EXT-X-STREAM-INF:BANDWIDTH=3600000,AVERAGE-BANDWIDTH=2400000,CODECS="avc1.640029,mp4a.40.2"
+https://hls.live.fc2.com/hls/97727713/42/playlist?session_token=a47ea4f41748e8a2418925603e063354686dcdce6be02bffde986d8e26f39945&playlist_token=7485d92c8e052ee7f2434e69b50edd32b5fec74eaf0dcb3d8658ccab31456adb&playlist_second_token=307f1b6d5d11bdc15d74ef2c91fd18ac2b83c2e00a80d83c201f560f49e12174

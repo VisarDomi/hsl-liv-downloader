@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+transfer-encoding: chunked
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-B3-TraceId: 18b9faa4b41887987af466bed7d
+Set-Cookie: tt=ZWU0YzRiZWUyYjBhYzdmNTc5M2NkYzc4Njc2Y2E0Y2M5NjRjM2IxY2Q5Y2JmZjZiYWM0NTNmNmQ2YWQwOGM5ZA; Max-Age=10; Expires=Sun, 05 Nov 2023 13:27:09 GMT; Domain=tango.me; Path=/
+Set-Cookie: ttu=06c903e40ab1408a835389235c1c9055; Max-Age=10; Expires=Sun, 05 Nov 2023 13:27:09 GMT; Domain=tango.me; Path=/
+Set-Cookie: tte=1699190829; Max-Age=10; Expires=Sun, 05 Nov 2023 13:27:09 GMT; Domain=tango.me; Path=/
+Content-Type: application/json;charset=UTF-8
+Date: Sun, 05 Nov 2023 13:26:58 GMT
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://tango.me
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+b6
+{"token":"ZWU0YzRiZWUyYjBhYzdmNTc5M2NkYzc4Njc2Y2E0Y2M5NjRjM2IxY2Q5Y2JmZjZiYWM0NTNmNmQ2YWQwOGM5ZA","expireAt":1699190829,"ttlSeconds":10,"username":"06c903e40ab1408a835389235c1c9055"}
+0
+

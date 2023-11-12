@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 105092
+Content-Type: application/octet-stream
+Via: 1.1 google, 1.1 varnish, 1.1 varnish
+Cache-Control: max-age=70, public
+Accept-Ranges: bytes
+Date: Sun, 05 Nov 2023 13:30:33 GMT
+Age: 1
+X-Served-By: cache-fra-eddf8230138-FRA, cache-sof1510023-SOF
+X-Cache: HIT, HIT
+X-Cache-Hits: 9, 1
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://tango.me
+Strict-Transport-Security: max-age=300
+
+G@ and some bytes here and there

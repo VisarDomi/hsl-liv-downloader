@@ -1,0 +1,23 @@
+POST https://proxycador-cdn.tango.me/proxycador/api/registerGuest/v1 HTTP/1.1
+Host: proxycador-cdn.tango.me
+Connection: keep-alive
+Content-Length: 366
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+DNT: 1
+foreground-id: 927886d3-d097-4295-a4e7-b8e10ba5f99f
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+content-type: application/json
+accept: application/json
+username: null
+interaction-id: 9d931215-a135-4107-9a4a-e4b2597fc93a
+sec-ch-ua-platform: "Windows"
+Origin: https://tango.me
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://tango.me/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+{"clientCapabilities":"device.linking,tcalttext,acme.v1,tc21,tc.stranger,groupmessage,ndigit.sms.validation,social.v6,live.social.notification:1,live.social.private,live.social.private:2,live.social.pullevents,externalmessage","fingerprint":"0f3abd1a1a5970b715d17930d11ff0b5","locale":"en","osVersion":"10 (Chrome-118)","clientVersion":"9.20.5-5c04689-202311021439"}

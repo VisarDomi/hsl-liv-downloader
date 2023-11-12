@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Nov 2023 10:19:17 GMT
+Content-Type: application/json; charset=utf-8
+Connection: keep-alive
+Cross-Origin-Opener-Policy: same-origin
+Last-Modified: Fri, 10 Nov 2023 10:19:17 GMT
+X-Content-Type-Options: nosniff
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Length: 1016
+
+{"url":"wss:\/\/control1002-g.live.fc2.com\/control\/97727713\/","orz":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvcnoiOiI0MzM0ZDA0YTgzZjI0NjBlMWQ5MjlhYTJiYTMzNTJkODZhODQzM2I5In0.5LV_it_xsD4WUio0i9EvpOBmBdYPoAqhDOl1uxfJ7z8","orz_raw":"4334d04a83f2460e1d929aa2ba3352d86a8433b9","control_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjaGFubmVsX2lkIjoiOTc3Mjc3MTMiLCJ1c2VyX2lkIjoiejQ3ZWE0ZjQxNzQ4ZThhMjQxODkyNTYwM2UiLCJmYzJfaWQiOjAsIm9yel90b2tlbiI6IjQzMzRkMDRhODNmMjQ2MGUxZDkyOWFhMmJhMzM1MmQ4NmE4NDMzYjkiLCJzZXNzaW9uX3Rva2VuIjoiYTQ3ZWE0ZjQxNzQ4ZThhMjQxODkyNTYwM2UwNjMzNTQ2ODZkY2RjZTZiZTAyYmZmZGU5ODZkOGUyNmYzOTk0NSIsInByZW1pdW0iOjAsIm1vZGUiOiJwbGF5IiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudF90eXBlIjoicGMiLCJjbGllbnRfYXBwIjoiYnJvd3Nlcl9obHMiLCJjbGllbnRfdmVyc2lvbiI6IjIuMi42ICBbMV0iLCJhcHBfaW5zdGFsbF9rZXkiOiIiLCJjaGFubmVsX3ZlcnNpb24iOiJmNGE1ZTUzOC00MTlmLTRmMTMtYmFmMS01ODA5NzMzYmZjNmIiLCJjb250cm9sX3RhZyI6IiIsImlwdjYiOiIiLCJjb21tZW50YWJsZSI6dHJ1ZSwiZXhwIjoxNjk5NjExNTg3fQ.4p34OB6WWgzyku8JjxEHcX_G7rIvvuvlhY95goIA2nE","status":0}

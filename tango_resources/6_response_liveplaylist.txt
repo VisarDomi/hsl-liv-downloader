@@ -1,0 +1,43 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 1224
+Content-Type: application/vnd.apple.mpegurl
+Via: 1.1 google, 1.1 varnish, 1.1 varnish
+Cache-Control: max-age=0, no-cache
+Accept-Ranges: bytes
+Date: Sun, 05 Nov 2023 13:30:33 GMT
+Age: 0
+X-Served-By: cache-fra-etou8220053-FRA, cache-sof1510027-SOF
+X-Cache: HIT, MISS
+X-Cache-Hits: 6, 0
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://tango.me
+Strict-Transport-Security: max-age=300
+
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-MEDIA-SEQUENCE:5172
+#EXT-X-TARGETDURATION:1
+#EXT-X-PROGRAM-DATE-TIME:2023-11-05T13:30:26.243Z
+#EXTINF:1.000,
+/v2/ss/fdaedde318df5e5f7f145329b8d6a8de/61c99c9f01684632657a0ff15414725d/5172.ts?tech=lhls
+#EXT-X-PROGRAM-DATE-TIME:2023-11-05T13:30:27.243Z
+#EXTINF:1.000,
+/v2/ss/fdaedde318df5e5f7f145329b8d6a8de/86890f0b0fc86b7e31ab88308ca78758/5173.ts?tech=lhls
+#EXT-X-PROGRAM-DATE-TIME:2023-11-05T13:30:28.243Z
+#EXTINF:1.000,
+/v2/ss/fdaedde318df5e5f7f145329b8d6a8de/019cf6dade0c845109bd4a69715772c6/5174.ts?tech=lhls
+#EXT-X-PROGRAM-DATE-TIME:2023-11-05T13:30:29.243Z
+#EXTINF:1.000,
+/v2/ss/fdaedde318df5e5f7f145329b8d6a8de/240c22a77ad444ebec42b190f191513c/5175.ts?tech=lhls
+#EXT-X-PROGRAM-DATE-TIME:2023-11-05T13:30:30.243Z
+#EXTINF:1.000,
+/v2/ss/fdaedde318df5e5f7f145329b8d6a8de/b37bc32515bbf5c1c640ff8d1abc7fcd/5176.ts?tech=lhls
+#EXT-X-PROGRAM-DATE-TIME:2023-11-05T13:30:31.243Z
+#EXTINF:1.000,
+/v2/ss/fdaedde318df5e5f7f145329b8d6a8de/5e182a47eec7596045a3cba87910d5c6/5177.ts?tech=lhls
+#EXTINF:1.000,
+/v2/ss/fdaedde318df5e5f7f145329b8d6a8de/2c6e6b569b6f1102279369d57d6e23a8/5178.ts?tech=lhls
+#EXTINF:1.000,
+/v2/ss/fdaedde318df5e5f7f145329b8d6a8de/ddb04f5a059f910928bc250b17cfe876/5179.ts?tech=lhls

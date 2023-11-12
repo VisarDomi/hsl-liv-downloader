@@ -1,0 +1,18 @@
+GET https://hls3005-g.live.fc2.com/hls/v2/97727713/32/data/2799.ts?time=1699611587&hash=060c5b833c7f23ce1539695b7ea39a27e0f5ca33bc912fa76c0e98b9a2e3b80d HTTP/1.1
+Host: hls3005-g.live.fc2.com
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://live.fc2.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://live.fc2.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=vg7ivo2mfua7t4femdh1ovo5ir
+

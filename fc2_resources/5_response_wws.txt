@@ -1,0 +1,11 @@
+HTTP/1.1 101 Switching Protocols
+Server: nginx
+Date: Fri, 10 Nov 2023 10:19:18 GMT
+Connection: upgrade
+Upgrade: websocket
+Sec-WebSocket-Accept: LpmuVmhkeFSxANzmhwEyFSZ716I=
+EndTime: 11:19:26.588
+ReceivedBytes: 52636
+SentBytes: 64
+
+get-the-data-using-web-socket

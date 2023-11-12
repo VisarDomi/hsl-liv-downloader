@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+transfer-encoding: chunked
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-B3-TraceId: 18b9fad753d5af885fe7f480f60
+Content-Type: application/json
+Date: Sun, 05 Nov 2023 13:30:26 GMT
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://tango.me
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+33f
+{"entities":{"basicProfile":{"UzoRrqoAakOzlC19PYF39A":{"gender":"NONE","verified":false}},"liveStats":{"UzoRrqoAakOzlC19PYF39A":{"points":1367307,"vipStatus":0}},"stream":{"F7orbN3P9Xg2YSvB1s28cw":{"id":"F7orbN3P9Xg2YSvB1s28cw","status":"LIVING","kind":"PUBLIC","title":"Смотрите мою прямую трансляцию!","thumbnail":"https://cget.tango.me/contentserver/download/ZKaVwgAAsWCTIBEdIGfiUQ/3PwnLnYP","broadcasterId":"UzoRrqoAakOzlC19PYF39A","ticketPrice":0,"viewerCount":84,"playlistUrl":"https://cinema-eu.tango.me/v2/6c8ddcacb399a257fcf0679ec4347f37/master.m3u8","relatedStreams":[],"restrictions":{},"tags":[],"hashtags":[],"landscape":false}},"settings":{"F7orbN3P9Xg2YSvB1s28cw":{"audioEnabled":true,"videoEnabled":true}}},"result":["F7orbN3P9Xg2YSvB1s28cw"],"totalCount":1,"sessionId":"","requestId":""}
+0
+

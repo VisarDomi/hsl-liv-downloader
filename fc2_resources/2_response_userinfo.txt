@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Nov 2023 10:19:16 GMT
+Content-Type: text/javascript; charset=utf-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Cross-Origin-Opener-Policy: same-origin
+Last-Modified: Fri, 10 Nov 2023 10:19:16 GMT
+X-Content-Type-Options: nosniff
+Set-Cookie: l_ortkn=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvcnoiOiI0MzM0ZDA0YTgzZjI0NjBlMWQ5MjlhYTJiYTMzNTJkODZhODQzM2I5In0.5LV_it_xsD4WUio0i9EvpOBmBdYPoAqhDOl1uxfJ7z8; expires=Wed, 31-Dec-2036 23:00:00 GMT; Max-Age=414765644
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Length: 135
+
+{"status":1,"user_info":{"image":"","icon":"","name":"","id":0,"fc2id":0,"aid":0,"lang":"ja"},"response_time":"0.0044269561767578 sec"}
